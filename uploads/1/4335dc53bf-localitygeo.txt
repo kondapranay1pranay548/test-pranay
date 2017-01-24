@@ -1,0 +1,556 @@
+State Bank Of Hyderabad,500001
+Hyderabad G.P.O.,500001
+Moazzampura,500001
+Seetharampet,500001
+Gandhi Bhawan (Hyderabad),500001
+Moghalpura,500002
+Hyderabad Jubilee,500002
+Secunderabad,500003
+Kingsway,500003
+MG Road,500003
+Begumpet Policelines,500003
+Bazarghat (Hyderabad),500004
+Anandnagar (Hyderabad),500004
+Parishram Bhawan,500004
+Vidhan Sabha (Hyderabad),500004
+A.Gs Office,500004
+Khairatabad,500004
+Mamidipalli,500005
+Keshogiri,500005
+Balapur,500005
+Pahadishareef,500005
+Crp Camp (Hyderabad),500005
+Kulsumpura,500006
+Mangalhat,500006
+Karwan Sahu,500006
+Administrative Buildings,500007
+Tarnaka,500007
+IICT,500007
+Ngri,500007
+Jama I Osmania,500007
+Lunger House,500008
+Nanakramguda,500008
+Appa Himayathsagar,500008
+Sakkubai Nagar,500008
+Toli Chowki,500008
+Kakatiya Nagar,500008
+Golconda,500008
+Hyder Shah Kote,500008
+Dargah Hussain Shahwali,500008
+Manovikasnagar,500009
+Picket,500009
+Kowkoor,500010
+Bolarum,500010
+Alwal,500010
+Bolarum Bazar,500010
+Haiglines,500010
+Bowenpally,500011
+Begumbazar,500012
+Hyderabad Public School,500013
+Srinivasapuram (Hyderabad),500013
+Zindatelismath,500013
+Seminary,500013
+Amberpet,500013
+Hakimpet,500014
+Aoc Records,500015
+Trimulgherry,500015
+EME Records,500015
+Begumpet,500016
+Prakashamnagar,500016
+Lallapet,500017
+Lallaguda,500017
+Swarajyanagar,500018
+Moosapet,500018
+Sanath Nagar Colony,500018
+Erragadda,500018
+Fathenagar Colony,500018
+Sanathnagar I E,500018
+Vivekananda Nagar Colony,500018
+Bharat Nagar Colony,500018
+Lingampalli,500019
+Musheerabad (ND),500020
+Golconda Chowrastha,500020
+Zamistanpur,500020
+Musheerabad (Delivery),500020
+Ashoknagar (Hyderabad),500020
+Central Secretariat,500022
+Yakutpura,500023
+Sahifa,500024
+Darushifa,500024
+Rail Nilayam,500025
+Himmatnagar,500025
+Padmaraonagar,500025
+Nehrunagar (Hyderabad),500026
+Stn Kachiguda,500027
+Nimboliadda,500027
+Barkatpura,500027
+Humayunnagar,500028
+Murad Nagar (Hyderabad),500028
+Shantinagar (Hyderabad),500028
+Ramakrishna Mutt,500029
+Narayanguda,500029
+Gagan Mahal,500029
+Himayathnagar,500029
+A.G.College,500030
+Rajendranagar (K.V.Rangareddy),500030
+Aperl,500030
+Kismathpur,500030
+Ibrahim Bagh Lines,500031
+Gachibowli,500032
+Manuu,500032
+Jubilee Hills,500033
+Dr.B R Ambedkar O.U,500033
+Banjara Hills,500034
+Saroornagar,500035
+Huda Residential Complex,500035
+Ramakrishanapuram,500035
+Osmannagar (Hyderabad),500036
+Old Malakpet,500036
+Malakpet Colony,500036
+Sripuram Colony,500036
+Balanagar Township,500037
+Rangareddynagar,500037
+CIE Balangar,500037
+Vengal Rao Nagar,500038
+Sanjeev Reddy Nagar,500038
+Uppal (K.V.Rangareddy),500039
+Peerzadiguda,500039
+Survey Of India,500039
+Moulali,500040
+Aphb Colony Moulali,500040
+Ie Moulali,500040
+Raj Bhawan (Hyderabad),500041
+Hal (Hyderabad),500042
+Srirangavaram,500043
+Dindigul,500043
+Bowrampet,500043
+Bahadurpalli,500043
+Airforce Academy,500043
+Gagillapur,500043
+Nallakunta,500044
+Vidyanagar (Hyderabad),500044
+Ambernagar,500044
+New Nallakunta,500044
+Andhra Mahila Sabha,500044
+Yousufguda,500045
+A.Gs. Staff Quarters,500045
+CUC,500046
+Anandbagh,500047
+Malkajgiri,500047
+Hanumanpet,500047
+Hyderguda,500048
+Attapur,500048
+Mathrusri Nagar,500049
+Miyapur,500049
+Chandanagar,500050
+Hindustan Cables Ltd,500051
+Gaganpahad,500052
+Shivarampalli,500052
+Svpnpa,500052
+Hasannagar,500052
+Falaknuma,500053
+Uppuguda,500053
+HMT Township,500054
+Suraram,500055
+Gajularamaram,500055
+IDA Jeedimetla,500055
+Kutbullapur,500055
+Neredmet,500056
+Ramakrishna Puram,500056
+Vijay Nagar Colony (Hyderabad),500057
+Badangpet,500058
+Kanchanbagh,500058
+Saidabad Colony,500059
+Santoshnagar Colony,500059
+Saidabad (Hyderabad),500059
+Dilsukhnagar Colony,500060
+Chaithanyapuri Colony,500060
+P & T Colony (K.V.Rangareddy),500060
+Sitaphalmandi,500061
+Kushaiguda,500062
+Jai Jawan Colony,500062
+Ecil,500062
+Dr As Rao Nagar,500062
+New Mla Quarters,500063
+LIC Division,500063
+Bahadurpura,500064
+Kishanbagh,500064
+Tadbun,500064
+Hussainialam,500064
+Shahalibanda,500065
+Fatehdarwaza,500065
+High Court (Hyderabad),500066
+Suchitra Junction,500067
+Mansoorabad,500068
+Gsi(Sr) Bandlaguda,500068
+R.C.Imarat,500069
+Vaidehinagar,500070
+Vanastalipuram,500070
+Sarada Nagar,500070
+Kukatpally,500072
+Vivekanandanagar Colony,500072
+Srinagar Colony,500073
+Rangareddy Dt Courts,500074
+L B Nagar,500074
+C.B.I.T,500075
+Janwada,500075
+Wattinagulapalli,500075
+Gandipet,500075
+Himayathnagar,500075
+Narsingi,500075
+Kokapet,500075
+Mancherevula,500075
+Aziz Nagar,500075
+Mallapur,500076
+Snehapuri Colony,500076
+I.E.Nacharam,500076
+Kattedan Ie,500077
+Uddemarri,500078
+Ponnal,500078
+CRPF,500078
+Thumkunta,500078
+Devaryamjal,500078
+Nisa Hakimpet,500078
+BITS,500078
+Bomraspet,500078
+Karmanghat,500079
+Vaishalinagar,500079
+Jillellaguda,500079
+Gandhinagar (Hyderabad),500080
+Cyberabad,500081
+Madhapur,500081
+Somajiguda,500082
+I.M.Colony,500082
+Nagaram (K.V.Rangareddy),500083
+Kothaguda (K.V.Rangareddy),500084
+Kondapur,500084
+KPHB Colony,500085
+Jntu Kukat Pally,500085
+Don Bosco Nagar,500086
+Jawahar Nagar,500087
+JJ Nagar Colony,500087
+Korremal,500088
+Samskruthi,500088
+Rajeevagruhakalpa,500088
+Katchavanisingaram,500088
+Pratapsingaram,500088
+Venkatadri,500088
+Manikonda,500089
+Pragatinagar,500090
+Nizampet,500090
+Bachupally,500090
+Hydershahkote,500091
+AP Police Academy PO,500091
+Boduppal,500092
+Vikasnagar (Hyderabad),500093
+Sainikpuri,500094
+Putlibowli,500095
+State Bank Of India,500095
+Film Nagar,500096
+Gayatri Nagar,500097
+Meerpet,500097
+Medipalli,500098
+Pochampally,500100
+Komplly,500100
+Doolapalli,500100
+Anantaram,500101
+Aliabad,500101
+Jaggamguda,500101
+Turkapalliyadaram,500101
+Kolthur,500101
+Kyasaram,500101
+Peddalaxmapur,500101
+Shamirpet,500101
+Mudchintanapalli,500101
+Lalgadi Malakpet,500101
+Vikarabad,501101
+Pulusmamidi,501102
+Pulapalli,501102
+Gottimukkala,501102
+Pudur,501102
+Munnur Somaram,501102
+Mudgul Chittempalle,501102
+Godamguda,501102
+Jaidupalli,501102
+Phulmaddi,501102
+Kadcherla,501102
+Allampalli.,501102
+Anantagiripally,501102
+Kothagdi,501102
+Atveli,501102
+Madanapalli,501102
+Ramanathgudpally,501102
+Malwardevrampalli,501102
+Manneguda,501102
+Siddaloor,501102
+Sivareddypet,501102
+Ekmamidi,501102
+Dhannaram,501102
+Girgitpalle,501102
+Barwad,501106
+Ramapur,501106
+Kalkhoda,501106
+Rompalli,501106
+Kothapalli,501106
+Salbathapur,501106
+Mothukapalli,501106
+Ravulapalli,501106
+Malasomaram,501106
+Bantwaram,501106
+Nagasamunder,501106
+Yenkepalle,501106
+Kotpalli,501106
+Yennaram,501106
+Devarampalli,501111
+Arkatala,501111
+Chittigadda,501111
+Chanchalpet,501111
+Pulmamidi,501111
+Chimaldari,501111
+Nawabpet (K.V.Rangareddy),501111
+Madireddipalli,501111
+Mominkalan,501121
+Nagawaram,501121
+Rasnam,501121
+Dharur,501121
+Dornal,501121
+Ghatepalli,501121
+Tarigopula,501121
+Kukonda,501121
+Karvelli,501121
+Haridasapalli,501121
+Tandur,501141
+Narayanpur,501141
+Kandanhalli,501141
+Allapur,501141
+Manthatti,501141
+Kokat,501141
+Antharam,501141
+Gingurthi,501141
+Gunj,501141
+Chengole,501141
+Nagulapalli,501142
+Indur,501142
+Thattepalli,501142
+Gazipur,501142
+Adikcherla,501142
+Jangaon,501142
+Turmamidi,501142
+Regondi,501142
+Peddimal,501142
+Mombapur,501142
+Mailwar,501143
+Chinnagottiga,501143
+Kasimpur,501143
+Basheerabad,501143
+Damarched,501143
+Jeevangi,501143
+Kurviched,501143
+Manthangod,501143
+Yakmai,501143
+Navalga,501143
+Pagdyal,501144
+Yalal,501144
+Bennur,501144
+Timmaipalli,501144
+Juntapalli,501144
+Agnoor,501144
+Chennaram,501144
+Devnoor,501144
+Sangamkalan,501158
+Malkapur,501158
+Mittabaspalle,501158
+CCI Tandur,501158
+Karankot,501158
+Kesaram,501202
+Mominpet,501202
+Panchalingal,501202
+Thummalapalli,501202
+Kolkonda,501202
+Patloor,501202
+Morangpalli,501202
+Mekavanampalli,501202
+Kothlapur,501202
+Amradikalan,501202
+Velchal,501202
+Sirpura,501202
+Enkatala,501202
+Marpallikalan,501202
+Buchampalli,501202
+Kotmarpalli,501202
+Tekulapalli,501202
+Proddatur,501203
+Parveda,501203
+Mubarakpur,501203
+Yellakonda,501203
+Shankarpalli,501203
+Kodalkal,501203
+Singapur,501203
+Mokila,501203
+Kothapalli,501203
+Maharajpet,501203
+Medipalli,501203
+Tangutoor,501203
+Dhobhipet,501203
+Yelvawthy,501203
+Bhulkapur,501203
+Nagaram,501218
+Kotwalguda,501218
+Shamshabad (K.V.Rangareddy),501218
+Nanajipur,501218
+Chinnagolkonda,501218
+Narkhoda,501218
+Gollapalli Kalan,501218
+Bogaram,501301
+Ghatkesar,501301
+Rompalli,501301
+Cherial,501301
+Keesaragutta,501301
+Yadgarpalli,501301
+Rampallidiara,501301
+Keesara,501301
+Cherlapalli,501301
+Edulabad,501301
+Thimmaipalli,501301
+Ankireddipalli,501301
+Ankushapur,501301
+Tummalur,501359
+Maisaram,501359
+Lemur,501359
+Gudur,501359
+Dabbedguda,501359
+Kandukur,501359
+Pulmamidi,501359
+Mankhal,501359
+Jaitwaram,501359
+Chippalapalli,501359
+Nedunur,501359
+Rachaloor,501359
+Rajbolaram,501401
+Pudur,501401
+Medchal,501401
+Dabirpur,501401
+Girmapur,501401
+Gowdavalli,501401
+Ravalkol,501401
+CMR College (Kandlakoya),501401
+Nutankal,501401
+Athveli,501401
+Rupkhanpet,501501
+Chityal,501501
+Somangurthi,501501
+Purgi,501501
+Peda Umenthyal,501501
+Kankal,501501
+Regadi Doswada,501501
+Sultanpur,501501
+Riapol,501501
+Nizampet Medpalli,501501
+Peta Madaram,501501
+Mittakorud,501501
+Syedpalli,501501
+Gharsinghapur,501501
+Medpalli,501501
+Kistapur,501501
+Chengomal,501501
+Naskal,501501
+Manchanpalli,501501
+Kudvandapur,501501
+Kudmoor,501501
+Sivareddipalli,501502
+Ainapur,501502
+Wootpalli,501502
+Doma,501502
+Dirsampalli,501502
+Mujahidpur,501502
+Badampalli,501502
+Bandelkacherla,501502
+Bompalli,501502
+Antaram,501503
+Regad Ghanapur,501503
+Damargidda,501503
+Pamena,501503
+Malkapur,501503
+Orella,501503
+Chevella,501503
+Alur,501503
+Tangadpalli,501503
+Devuniyerravalli,501503
+Mudimial,501503
+Kanmeta,501503
+Gundal,501503
+Kandlapalli,501503
+Chandanvelly,501503
+Chenvelli,501503
+Kandwada,501503
+Kowkunta,501503
+Nyalata,501503
+Surangal,501504
+Venkatapur,501504
+Chilkur,501504
+Kethireddipalli,501504
+Moinabad,501504
+Pedda Mangalaram,501504
+Amdapur,501504
+Chinna Mangalaram,501504
+Kanakamamidi,501504
+Qutubullapur,501505
+Bandaraviryal,501505
+Hayatnagar,501505
+Kuntloor,501505
+Pasmamala,501505
+Gowrelli,501505
+Pedda Amberpet,501505
+Kavadpalli,501505
+Taramatipeta,501505
+Cherlapatel Guda,501506
+Gungal,501506
+Madhapur,501506
+Eleminedu,501506
+Pocharam,501506
+Gummadavalli,501506
+Ibrahimpatnam (K.V.Rangareddy),501506
+Thimmapur,501506
+Kappapahad,501506
+Agapalli,501506
+Raipole,501508
+Japal,501508
+Tadlapalliguda,501508
+Dandumailaram,501508
+Lingampalli,501508
+Manchal,501508
+Rangapur,501508
+Arutla,501508
+Polkampalli,501508
+Yacharam,501509
+Medipalli,501509
+Chintapatla,501509
+Toolkhurd,501509
+Mondigowrelli,501509
+Akulamailaram,501509
+Tatiparthy,501509
+Chowderpalli,501509
+Manthangowd Gowrelli,501509
+Nandiwanaparthy,501509
+Nallavalli,501509
+Toolkalan,501509
+Meerkhanpet,501509
+Nazdiksingaram,501509
+Kothapalli,501509
+Kurmidda,501509
+Ramdaspalli,501510
+Kongarakalan,501510
+Adibatla,501510
+Seriguda,501510
+Vinjapur,501510
+Kongaraviryla,501510
+Mangalpalli,501510
+Nadergul,501510
+Ragannaguda X Roads,501510
+Turkayamzal,501510
+Koheda,501511
+Torrur,501511
+Sanghinagar,501511
+Anajpur,501512
+Ramoji Film City,501512
+Batasingaram,501512
